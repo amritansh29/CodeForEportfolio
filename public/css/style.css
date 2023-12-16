@@ -1,0 +1,22 @@
+html{
+    font-size: 14px;
+    background-color: azure;
+    border: 1rem groove blueviolet;
+
+}
+
+h1{
+    color: brown;
+    text-shadow: 2px 2px 2px black;
+}
+
+a:hover{
+    color: red;
+}
+
+
+
+
+
+
+
