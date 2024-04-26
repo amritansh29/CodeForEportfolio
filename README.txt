@@ -1,6 +1,6 @@
 Team Members:
-Benjamin Ward (117949322) / (benward)
-Amritansh Suryavanshi (118090405) / (amrit29)
+Benjamin Ward 
+Amritansh Suryavanshi 
 
 Description:
 This app lets you record the temperature at your current location and then allows you to see 
