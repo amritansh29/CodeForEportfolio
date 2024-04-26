@@ -9,7 +9,7 @@ class TempLog {
         this.#rl = readline.createInterface({ input, output });
     
         if (process.argv.length !== 3) {
-            console.log('Usage summerCampServer.js PORT_NUMBER');
+            console.log('Usage TempLog.js PORT_NUMBER');
             process.exit(0);
         }
 
@@ -56,7 +56,7 @@ class TempLog {
         });
 
         app.get("/logSubmitted", async (request, response) => {
-            this.#navigator.getCurrentPosition(async (success, error) => {
+            this.#navigator.geolocation.getCurrentPosition(async (success, error) => {
                 if (error) {
                     console.error(error);
                 }

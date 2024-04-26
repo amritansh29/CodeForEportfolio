@@ -9,4 +9,6 @@ locations that were recorded within a certain temperature range
 API Link:
 https://www.npmjs.com/package/node-navigator
 
-Youtube Demo Video:
+Youtube Demo Video: https://youtu.be/nAO4H57U468
+
+Website Link: https://cmsc335-3c1t.onrender.com/
